@@ -1,6 +1,6 @@
 # PXL Sprite Inspector
 
-A standalone static gallery of 3,182 animated and still sprites.
+A standalone static gallery of 3,400 animated and still sprites.
 
 Website: https://edlud.github.io/pxSpriteWebsite/
 
